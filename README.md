@@ -1,0 +1,1 @@
+This repository contains base modules for [Simple Translator](https://github.com/RankoR/SimpleTranslator) project.
